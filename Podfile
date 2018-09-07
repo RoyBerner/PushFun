@@ -10,7 +10,7 @@ target 'PushFun' do
   # Pods for PushFun
   
   pod 'Firebase/Core'
-
+  pod 'Firebase/Messaging'
 
 
 
